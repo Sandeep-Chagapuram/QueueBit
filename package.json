@@ -1,0 +1,9 @@
+{
+  "name":"root-runner",
+  "scripts": {
+    "dev":"concurrently \"npm run dev --prefix client\" \"npm run dev --prefix owner\" \"nodemon server/server.js\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
