@@ -6,7 +6,7 @@
 ## Steps to run the project
 
 1. Clone the project
-   git clone <repo-url>
+   git clone https://github.com/Sandeep-Chagapuram/QueueBit.git
    cd QueueBit
 ````
 
