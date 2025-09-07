@@ -39,7 +39,7 @@ export default function Pay({ total,items }) {
   const loadRazorpay = (amount) => {
     const options = {
       // key: enter you razorpay key here,
-      key: 'YOUR_API_KEY'
+      key: 'YOUR_API_KEY',
       amount: amount * 100,
       currency: "INR",
       name: "QueueBit",
