@@ -37,5 +37,6 @@
    ```sh
    npm run dev
    ```
+#make sure both client and owner run at different localhosts. Suppose client runs at http://localhost:5174/ then owner runs at http://localhost:5173/
 
 
