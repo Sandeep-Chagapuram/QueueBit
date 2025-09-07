@@ -6,7 +6,6 @@
 ## Steps to run the project
 
 1. Clone the project
-   ```sh
    git clone <repo-url>
    cd QueueBit
 ````
